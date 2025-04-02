@@ -13,7 +13,7 @@ const projects = [
     title: "Harmony",
     category: "Digital Experience",
     image: "/placeholder.svg?height=600&width=800",
-    year: 2023,
+    year: 2025,
   },
   { id: 2, title: "Pulse", category: "Brand Identity", image: "/placeholder.svg?height=600&width=800", year: 2022 },
   { id: 3, title: "Nebula", category: "Web Design", image: "/placeholder.svg?height=600&width=800", year: 2023 },
